@@ -3,7 +3,7 @@ layout: post
 title: "Medios sociales e inteligencia colectiva, ¿hemos fracasado?"
 ---
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/53565138170/in/dateposted/" title="Vías y tren de Hidrógeno"><img src="https://live.staticflickr.com/65535/53565138170_3b43cefe00_o.jpg" width="4272" height="2848" alt="Vías y tren de Hidrógeno"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/53565138170/in/dateposted/" title="Vías y tren de Hidrógeno"><img src="https://live.staticflickr.com/65535/53565138170_3b43cefe00_o.jpg" width="370"  alt="Vías y tren de Hidrógeno"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Muchos creímos que una democratización de la posibilidad de publicar redundaría en más visiones que, además, serían mejores. Yo sigo pensando que es bueno que todo el mundo tenga acceso a la publicación y, por lo tanto, a tener una audiencia para sus ideas, pero también creo que eso nos impone una responsabilidad: estar atentos, filtrar, no dejarnos llevar...
 
