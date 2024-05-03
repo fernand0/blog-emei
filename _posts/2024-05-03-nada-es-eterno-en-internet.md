@@ -14,7 +14,7 @@ The Internet is in the midst of a midlife crisis. Its age is anywhere from 33 to
 </blockquote>
 
 Poco después introduce el concepto de pudrición, de la mano de pequeños cambios (se centra en fotografía, porque el sitio es DrPreview, que es ¿era? un sitio sobre material fotográfico y noticias alrededor del mundillo). Nos dice que uno de los servicios Apple se ha eliminado, Google ha quitado el almacenamiento ilimitado para fotografías, Flickr también ha borrado imágenes, Vimeo....
-Todavía lo es porque encontraron un comprador (<a href="https://arstechnica.com/gadgets/2023/06/camera-review-site-dpreview-finds-a-buyer-avoids-shutdown-by-amazon/">Camera review site DPReview finds a buyer, avoids shutdown by Amazon</a>.
+Todavía lo es porque encontraron un comprador (<a href="https://arstechnica.com/gadgets/2023/06/camera-review-site-dpreview-finds-a-buyer-avoids-shutdown-by-amazon/">Camera review site DPReview finds a buyer, avoids shutdown by Amazon</a>).
 
 <blockquote>
 Right before our eyes, the web is not only changing but rotting. Sometimes, the changes are small: Apple removes a photo product, Google removes unlimited photo storage, and Twitter breaks its legacy referral links. Other times, it is much larger, such as Flickr deleting thousands of user photos, Vimeo deleting user videos ...
