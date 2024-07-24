@@ -31,7 +31,7 @@ Porque nunca hemos sido capaces de elimitar completamente el engaño, reconocen.
 We have never been able to prevent all cheating, and that will not change.
 </blockquote>
 
-Tampco hay que olvidar que estos trabajos se encargan con el objetivo de que las personas aprendan, así que habría que incidir en estos aspectos, aumentando la motivación intrínseca y dejando claro los objetivos y las ventajas de realizarlos.
+Tampoco hay que olvidar que estos trabajos se encargan con el objetivo de que las personas aprendan, así que habría que incidir en estos aspectos, aumentando la motivación intrínseca y dejando claro los objetivos y las ventajas de realizarlos.
 
 <blockquote>
 It’s always worth underscoring that clarifying the purpose of each assignment and introducing student choice or personal connection to the topic can help make dishonesty less likely.
