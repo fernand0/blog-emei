@@ -35,7 +35,7 @@ Los medios de comunicación españoles empezaban a hablar de la cosa, aunque alg
 
 Hablaban de un problema de Azure.
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Más cerca.<a href="https://t.co/PpSY5H4qvT">https://t.co/PpSY5H4qvT</a></p>&mdash; fernand0 (@fernand0) <a href="https://twitter.com/fernand0/status/1814199821068079418?ref_src=twsrc%5Etfw">July 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Mientras tanto en España:<br>Azure? <a href="https://t.co/Nz5i3Ymieh">https://t.co/Nz5i3Ymieh</a></p>&mdash; fernand0 (@fernand0) <a href="https://twitter.com/fernand0/status/1814205856512127460?ref_src=twsrc%5Etfw">July 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 O, directamente, de Microsoft (que algo tenía que ver, desde luego), pero no era una caída suya.
 
@@ -57,7 +57,7 @@ Fundamentalmente, porque lo tienen previsto y reaccionan ante los problemas.
 Algunas ideas:
 
 - Las cosas pueden fallar y fallarán, tal vez deberías tener previstos mecanismos para recuperarte cuando eso suceda, o poder proporcionar tus servicios de otra forma.
-- La diversidad es buena, las personas que no eran clientes de Crowdstrike o de Microsoft no se vieron afectados en sus instalaciones. Buen momento para recordar a Dan Geer y sus avisos sobre los monocultivos informáticos.
+- La diversidad es buena, las personas que no eran clientes de Crowdstrike o de Microsoft no se vieron afectadas en sus instalaciones. Buen momento para recordar a Dan Geer y sus avisos sobre los monocultivos informáticos.
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">También es un buen día para recordar a Dan Geer y el tema de la diversidad tecnológica.<br>&quot;Shared Risk at the National Scale&quot;<a href="https://t.co/g4uR8T6XCv">https://t.co/g4uR8T6XCv</a></p>&mdash; fernand0 (@fernand0) <a href="https://twitter.com/fernand0/status/1814217203102654473?ref_src=twsrc%5Etfw">July 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
