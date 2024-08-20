@@ -29,7 +29,7 @@ Sin embargo, cita un estudio con:
 
 <blockquote>
 850 participantes alemanes (de entre 18 y 65 años) no encontró que utilizar el móvil de manera más continuada o intermitente tenga un impacto en el bienestar mental.
-<blockquote>
+</blockquote>
 
 Y otros dicen que puede tener más que ver con:
 
