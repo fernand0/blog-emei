@@ -1,88 +1,38 @@
 ---
 layout: post
-title: "¿Están sesgados las discusiones sobre los sesgos de las inteligencias artificiales?"
-date: 2024-10-14:T09:00
+title: "En el foro 'Claves Para Entender El Nuevo Mercado Laboral'"
+date: 2024-10-07:T09:00
 ---
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/54029232166/in/dateposted/" title="Marienbrücke (Puente de María) y montañas"><img src="https://live.staticflickr.com/65535/54029232166_a98e73675b_z.jpg" width="427" height="640" alt="Marienbrücke (Puente de María) y montañas"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EcZqJJhVw8Q?si=r8gGw2oR3SKh0nUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-No tengo ninguna duda sobre que las discusiones sobre los sesgos de las inteligencias artificiales están muy sesgadas en nuestro contexto. Es una herencia de ese sentimiento anti-tecnología que rodea todas las discusiones y que, aquí encuentra argumentos con facilidad.
-Me esperaba, sin embargo, algo menos en el contexto global y Donald Clark nos recuerda que no es así en <a href="https://donaldclarkplanb.blogspot.com/2024/07/why-bias-in-ai-is-too-often-bee-in.html">What if discussions of bias in AI were mostly biased themselves?</a>.
+Hace unas semanas me invitaron desde la Cámara de Comercio de Zaragoza a moderar una sesión sobre el sector tecnológico del Foro: 'Claves Para Entender El Nuevo Mercado Laboral', junto con Pilar Fernández de la Cámara y Mertixell Laborda de Océano Atlántico.
+El encuentro se celebró el dia 10 de septiembre en la recién rehabilitada sede de la Cámara de Comercio de Zaragoza.
 
+Participaban personas muy interesantes, algunas de ellas viejas conocidas (incluso ex-alumnos) y otras con las que no había tenido la suerte de coincidir:
 
-Habla de los típicos argumentos que ya casi son un meme, como la inteligencia artificial que confunde a una persona negra con un gorila, y otros...
+* Víctor Alfaro, Director General de <a href="https://www.podoactiva.com/">Podoactiva</a>
+* Santiago Sánchez, Socio Fundador de <a href="https://origen.bio/origen-corporacion/">Origen Biotech</a>
+* Ruth Lázaro Torres, Directora de <a href="https://taisi.es/">Taisi</a>
+* FernandO Cabeza, CEO de <a href="https://www.grupoceano.org/">Océano Atlántico</a>.
+* Félix Gil, CEO de <a hreF="https://www.integratecnologia.es/">Integra Tecnología</a>
+* Emilio Gomáriz, General Manager de <a href="https://www.globalspedition.com/en/">Global Spedition</a>
+* Enrique Villaverde, Director General y Socio Fundador <a hreF="https://www.megablok.com/">Megablok</a>.
+* Ángel Pardillos, Director of Talent Strategy de <a href="https://www.hiberus.com/">Hiberus Tecnología</a>.
 
-<blockquote>
-You also hear the same very old examples being brought up time and time again: black face/gorilla, recruitment and reoffender software.
-</blockquote>
+Eran empresas muy variadas, desde tecnológicas puras a otras para las que su enfoque es la producción pura. Familiares, empresas con fines sociales, ...
+Dedicándose a logística, alimentación, informática, servicios...
 
-Luego pasa a analizar algunas de las críticas habituales, y por qué podrían ser poco útiles:
+A mi me llamaba la atención cómo algunas empresas no se consideran tecnológicas a pesar de que su negocio depende fuertemente de las herramientas (y no me refiero solo a la gestión) y que en muchos casos la tecnología puede hacer que seamos diferenciales con respecto a nuestra competencia.
 
-* Razonamientos que implican sólo los aspectos negativos. Pero todas las tecnologías (y lo que no es) tienen aspectos negativos y, en este caso, en lugar de analizar lo positivo y lo negativo se quedan en los aspectos menos convenientes.
+Surgió la necesidad de captar estos perfiles, para todo tipo de empresas (pero tal vez para las que no se dedican a la tecnología un poco más), se habló de los perfiles, la formación (que tiene sus propias dificultades) y un poquito de la llegada de la inteligencia artificial y cómo puede afectarnos.
 
-<blockquote>
-The main bias in debates on bias is a form of one-sidedness in the analysis. Most technology has a downside. ... Rather than tease out the complexity, even comparing upsides with downsides, we are given the downsides only.
-</blockquote>
+La web de <a href="https://foros.camarazaragoza.com/foro-mercado-laboral/">Foro
+ 'Claves Para Entender El Nuevo Mercado Laboral'</a> que ha tenido tres encuentros contiene algunos vídeos a modo de resumen.
+Se puede leer también el <a href="http://foros.camarazaragoza.com/wp-content/uploads/2024/09/Tercer-encuentro-Foro-Oceano-Atlantico.pdf">[PDF] documento del tercer foro</a>, en el que participamos, y un poco de información (y fotografías) en <a href="https://foros.camarazaragoza.com/el-sector-tecnologico/">Los desafíos TIC en la empresa: talento, irrupción tecnológica y nuevas dinámicas</a>
 
-* Razonamientos antropomórficos. Se basan muchas veces en ver los posibles efectos de la tecnología, visualizándolos como robots malignos, o acciones que podemos comprender mejor que la propia naturaleza de los algoritmos que realmente se utilizan.
+<a hreF="https://foros.camarazaragoza.com/el-sector-tecnologico/"><img src="https://foros.camarazaragoza.com/wp-content/uploads/2024/09/P1021439-1024x577.jpg"></a>
 
-<blockquote>
-So crude images of robots enter the mind as characterising AI, or fixed databases where data is retrieved, as opposed to complex LLMs, vector databases or software or mathematics, which is not, for most, easy to call to mind or visualise.
-</blockquote>
+Durante la sesión hice un pequeño juego (no hubo mucho tiempo para preparar la sesión) al hacer la presentación de las presonas y de sus empresas a través de lo que veía en su página web. 
+Queda como ejercicio para el lector sacar sus propias impresiones.
 
-* Razonamientos que ignoran los propios sesgos humanos. Las personas tenemos nuestros propios sesgos (género, educación, economía, ...) lo que hace que muchas veces ni siquiera seamos capaces de ver el problema de manera desapasionada (sesgo de confirmación, negatividad, ...)
-
-<blockquote>
-One layer of human bias heavily influences the bias debate. Rather than look at the issue dispassionately we get well identified neophobia biases; ... This is common in financial decision making and, especially, new technology.
-</blockquote>
-
-* Razonamientos que asumen que todas las inteligencias artificiales tienen sesgos. Pero todos conocemos algoritmos sin sesgos (ordenar una lista, por ejemplo) y eso sucede con la mayoría. No sólo eso, mejoran la velocidad, efectividad....
-
-<blockquote>
-The point is that most algorithms are benign, doing a mechanical job and free from bias. They can improve performance in terms of strength, precision and performance over time...
-</blockquote>
-
-* Razonamientos que combinan los sesgos humano y estadístico. No hay que olvidar que hablamos de programas, que no tienen consciencia no conocimiento de cuál es su objetivo y por lo tanto no pueden tener sesgo en el sentido en el que lo tienen las personas. La definición de sesgo estadístico tiene que ver con medir la diferencia entre 'lo esperado' y 'lo que se obtiene' y, en este sentido, nos permite medir, comprobar y tratar de eliminar el problema.
-Sin embargo, el sesgo humano muchas veces ni siquiera se mide.
-
-<blockquote>
-Al is not conscious or aware of its purpose. It is just software, and as such, is not ‘biased’ in the way we attribute that word to ‘humans’.
-...
-There is a definition of ‘bias’ in statistics, which is not a pejorative term, but precisely defined as the difference between an expected value and the true value of a parameter.
-...
-The statistical approach at least recognises these biases and adopts scientific and mathematical methods to try to eliminate these biases.
-...
-This is a key point – human bias often goes unchecked, statistical and mathematical bias is subjected to rigorous checks.
-</blockquote>
-
-* Barandillas. Las barandillas (*guardrails*) son una intervención humana, igual que los re-entrenamientos (*post-model training*) que tratan de mejorar los resultados, pero que pueden introducir sus propios problemas por los sesgos de los humanos.
-
-<blockquote>
-Guardrails are human interventions, along with post-model training by humans. These introduce problems with bias introduced by humans.
-</blockquote>
-
-* Acusaciones de racismo. Las inteligencias artificiales son un fenómeno global, no están confinadas al mundo occidental. Incluso en Silicon Valey (el Valle de la Silicona, como decían en aquella traducción de la películas de James Bond) hay una cierta diversidad. ¿No estaremos exagerando sobre la maldad de estas empresas?
-Eso no quiere decir, claro, que no ocurra en algunos casos.
-
-<blockquote>
-AI is a global phenomenon, not confined to the western world. Even in Silicon Valley the presence of Chinese, Asian and Indian programmers is so prevalent that they feature in every sitcom on the subject. In addition, the idea that these coders are unconsciously, or worse, consciously creating racist and sexist algorithms is an exaggeration.
-</blockquote>
-
-* Acusaciones de sexismo. En este caso, nos dicen, el sesgo está claramente en la parte de las personas (educación, y sus resultados).
-
-<blockquote>
-There seems to be bias in the educational system among parents, teachers and others to steer girls away from STEM subjects and computer studies. But the idea that all algorithms are gender-biased is naïve. If such bias does arise one can work to eliminate the bias. Eliminating human gender bias is much more difficult.
-</blockquote>
-
-* Inteligencia artificial y transparencia. Se habla mucho de la transparencia en los algoritmos de inteligencia artificial, pero mucho menos de otros algoritmos y todavía menos en los resultados de otras disciplinas (cita la medicina, y como algunos medicamentos sabemos que funcionan pero no tenemos claro del todo por qué; y aún así los utilizamos, claro).
-
-<blockquote>
-A common observation in contemporary AI is that its inner workings are opaque, especially machine learning using neural networks. But compare this to another social good – medicine. We know it works but we don’t know how. As Jon Clardy, a professor of biological chemistry and molecular pharmacology at Harvard Medical School says, "the idea that drugs are the result of a clean, logical search for molecules that work is a ‘fairytale'”. Many drugs work but we have no idea why they work. Medicine tends to throw possible solutions at problems, then observe if it works or not.
-</blockquote>
-
-* Confundir lanzamientos tempranos y pruebas con los productos finales. La clave, nos dice, es que esos algoritmos no tienen consciencia ni conocimiento así que cometerán errores que pueden corregirse en sucesivas iteraciones.
-
-<blockquote>
-The good news is that repeated failure results in improvement in machine learning, reinforcement learning, adversarial techniques and so on. It is often absolutely necessary to learn from mistakes to make progress. We need to applaud failure, not jump on the bias bandwagon.
-</blockquote>
-
-Podemos decir que algo funciona mal, ponerle mala fama y evitar utilizarlo, pero eso no evitará que otras personas lo utilicen, corrijan sus sesgos y tomen decisiones sobre ello mientras nosotros lo criticamos y decimos que no sirve.
+Historia publicada originalmente en [En el foro 'Claves Para Entender El Nuevo Mercado Laboral'](http://webdiis.unizar.es/~ftricas/blog/otros/2024-09-12-16-00.html)
