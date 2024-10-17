@@ -10,12 +10,12 @@ El encuentro se celebró el dia 10 de septiembre en la recién rehabilitada sede
 
 Participaban personas muy interesantes, algunas de ellas viejas conocidas (incluso ex-alumnos) y otras con las que no había tenido la suerte de coincidir:
 
-* Víctor Alfaro, Director General de <a href="https://www.podoactiva.com/">Podoactiva</a>
-* Santiago Sánchez, Socio Fundador de <a href="https://origen.bio/origen-corporacion/">Origen Biotech</a>
-* Ruth Lázaro Torres, Directora de <a href="https://taisi.es/">Taisi</a>
+* Víctor Alfaro, Director General de <a href="https://www.podoactiva.com/">Podoactiva</a>.
+* Santiago Sánchez, Socio Fundador de <a href="https://origen.bio/origen-corporacion/">Origen Biotech</a>.
+* Ruth Lázaro Torres, Directora de <a href="https://taisi.es/">Taisi</a>.
 * FernandO Cabeza, CEO de <a href="https://www.grupoceano.org/">Océano Atlántico</a>.
-* Félix Gil, CEO de <a hreF="https://www.integratecnologia.es/">Integra Tecnología</a>
-* Emilio Gomáriz, General Manager de <a href="https://www.globalspedition.com/en/">Global Spedition</a>
+* Félix Gil, CEO de <a hreF="https://www.integratecnologia.es/">Integra Tecnología</a>.
+* Emilio Gomáriz, General Manager de <a href="https://www.globalspedition.com/en/">Global Spedition</a>.
 * Enrique Villaverde, Director General y Socio Fundador <a hreF="https://www.megablok.com/">Megablok</a>.
 * Ángel Pardillos, Director of Talent Strategy de <a href="https://www.hiberus.com/">Hiberus Tecnología</a>.
 
