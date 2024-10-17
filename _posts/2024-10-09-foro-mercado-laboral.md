@@ -13,11 +13,11 @@ Participaban personas muy interesantes, algunas de ellas viejas conocidas (inclu
 * Víctor Alfaro, Director General de <a href="https://www.podoactiva.com/">Podoactiva</a>.
 * Santiago Sánchez, Socio Fundador de <a href="https://origen.bio/origen-corporacion/">Origen Biotech</a>.
 * Ruth Lázaro Torres, Directora de <a href="https://taisi.es/">Taisi</a>.
-* FernandO Cabeza, CEO de <a href="https://www.grupoceano.org/">Océano Atlántico</a>.
-* Félix Gil, CEO de <a hreF="https://www.integratecnologia.es/">Integra Tecnología</a>.
-* Emilio Gomáriz, General Manager de <a href="https://www.globalspedition.com/en/">Global Spedition</a>.
+* FernandO Cabeza, *CEO* de <a href="https://www.grupoceano.org/">Océano Atlántico</a>.
+* Félix Gil, *CEO* de <a hreF="https://www.integratecnologia.es/">Integra Tecnología</a>.
+* Emilio Gomáriz, *General Manager* de <a href="https://www.globalspedition.com/en/">Global Spedition</a>.
 * Enrique Villaverde, Director General y Socio Fundador <a hreF="https://www.megablok.com/">Megablok</a>.
-* Ángel Pardillos, Director of Talent Strategy de <a href="https://www.hiberus.com/">Hiberus Tecnología</a>.
+* Ángel Pardillos, *Director of Talent Strategy* de <a href="https://www.hiberus.com/">Hiberus Tecnología</a>.
 
 Eran empresas muy variadas, desde tecnológicas puras a otras para las que su enfoque es la producción pura. Familiares, empresas con fines sociales, ...
 Dedicándose a logística, alimentación, informática, servicios...
