@@ -10,10 +10,15 @@ De eso nos hablaban en <a href="https://rubenerd.com/the-email-is-authentication
 
 <blockquote>
 1. Get to a login page
+
 2. Click “I forgot my password”
+
 3. Go to their email
+
 4. Click the recovery link
+
 5. Type a throwaway password they won’t retain
+
 6. Rinse, and repeat
 </blockquote>
 
