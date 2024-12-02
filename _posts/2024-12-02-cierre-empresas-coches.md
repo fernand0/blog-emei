@@ -46,3 +46,5 @@ EVs, however, are far more dependent on advanced software, which is not explicit
 </blockquote>
 
 En realidad, es posible que eso también pase con otras empresas (¿alguien tiene un teléfono móvil de alguna de las reconocidas que ya no recibe actualizaciones?) y las de automóviles hasta ahora se han ido librando, probablemente porque han sido muy conservadoras en lo que incluían en sus coches (y seguro que alguien tiene algún GPS o algún sistema de entretenimiento en un coche de hace unos años que se ha quedado completamente obsoleto).
+
+Luego podríamos hablar de la seguridad de esos dispositivos, claro (<a href="https://fernand0.github.io/ataques-vehiculos-conectados/">Los vehículos, los nuevos servicios y los mismos fallos de siempre</a>).
