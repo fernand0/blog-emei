@@ -28,5 +28,3 @@ They are followed, to a much lesser extent, by income and age, while race plays 
 </blockquote>
 
 Lo miden con el denominado <a hreF="https://es.wikipedia.org/w/index.php?title=Coeficiente_de_Gini&oldid=162074667">coeficiente de Gini</a> y la diferencia observada es de un 3%. No sé si ese porcentaje justifica un informe y luego una entrada aquí, pero aquí queda.
-
-
