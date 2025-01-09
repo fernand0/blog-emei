@@ -5,7 +5,7 @@ date: 2025-01-09:T16:00
 ---
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/11353917/in/photolist-TDZH-TE2u-21c8c-21c8v-21Px1-21PxB-2oXMv-2wjua-2wjuC-47TY5w-4s3PoQ-4s3PFq-57rFWr-ycjfT-YayimY-2qxfuz7-2qxmrLW-2qxmrPm-2qxmzEx-2qzSi3A" title="Otro robot"><img src="https://live.staticflickr.com/10/11353917_c841c12b6d_z.jpg" width="640" height="480" alt="Otro robot"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-A mediados del año pasado se publicaban estos datos: <a href="https://www.tooltester.com/en/blog/chatgpt-statistics/">ChatGPT Statistics 2024All the latest statistics about OpenAI’s chatbot</a> que tal vez ya estén un poco anticuadas, pero creo que vale la pena guardar por aquí.
+A mediados del año pasado se publicaban estos datos: <a href="https://www.tooltester.com/en/blog/chatgpt-statistics/">ChatGPT Statistics 2024All the latest statistics about OpenAI’s chatbot</a> que tal vez ya estén un poco anticuadas, pero creo que vale la pena guardar por aquí. Y tal vez me sirvan para otras cosas.
 
 - Consiguieron un millón de usuarios en la primera semana y en abril de 2024 se estima un número de visitas a la página web de 1800 millones (*1.8 billion*) con un número de usuarios activos estimado de 100 millones.
 
