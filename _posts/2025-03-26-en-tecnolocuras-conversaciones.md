@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "En la 2ª Edición del Encuentro Ciberseguridad 360º"
-date: 2025-02-11:T16:00
+title: "En tecnolocuras hablando del blog"
+date: 2025-03-26:T16:00
 ---
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Un nuevo éxito en <a href="https://twitter.com/hashtag/Ciberseguridad360%C2%BA?src=hash&amp;ref_src=twsrc%5Etfw">#Ciberseguridad360º</a>, esta vez en <a href="https://twitter.com/hashtag/Madrid?src=hash&amp;ref_src=twsrc%5Etfw">#Madrid</a>. ¡Gracias por acompañarnos! 👏<br>🔒 Hemos reunido a grandes profesionales para compartir estrategias, buenas prácticas y experiencias sobre los desafíos de la <a href="https://twitter.com/hashtag/ciberseguridad?src=hash&amp;ref_src=twsrc%5Etfw">#ciberseguridad</a>. ¿Has estado?<br><br>¡Nos vemos en la próxima edición! <a href="https://t.co/Xp1PJtmywC">pic.twitter.com/Xp1PJtmywC</a></p>&mdash; Sarenet (@Sarenet) <a href="https://twitter.com/Sarenet/status/1889308863301669269?ref_src=twsrc%5Etfw">February 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/54374966288/in/dateposted/" title="Detalle decorativo"><img src="https://live.staticflickr.com/65535/54374966288_72d3b387a1_z.jpg" width="640" height="427" alt="Detalle decorativo"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Estoy viendo que llevo más de un mes sin escribir por aquí (<a href="https://fernand0.blogalia.com/historias/78733">En internet (casi) nadie te echará de menos.</a>) pero es que mis horarios en esta primera parte del año son un poco raros y colisionan claramente con mis otras rutinas.
 A ver si retomamos la actividad, de momento con una intervención en casa de otros. Me (nos) escribió Henry, de <a href="https://tecnolocuras.com/">tecnolocuras</a> tratando de reproducir una idea que ha estado flotando por la blogosfera (aunque el formato era más de autoentrevista). En mi caso el resultado salió en <a href="https://tecnolocuras.com/entrevistas/conversaciones-con-blogueros-fernando-tricas-garcia/">#2 Conversaciones con blogueros: Fernando Tricas García</a> y fue una buena oportunidad para reflexionar sobre esta actividad. Se pueden ver el resto en <a href="https://tecnolocuras.com/entrevistas/conversaciones-con-blogueros/">Entrevistas con blogueros</a> donde seguramente podamos encontrar algún sitio nuevo para nuestro lector de RSS.
