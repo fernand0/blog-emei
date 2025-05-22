@@ -4,6 +4,7 @@ title: "Las inteligencias artificiales y la revisión por pares"
 date: 2025-05-22:T16:00
 ---
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/6302535/in/album-72157608554287572" title="Pasaba por allí. Jardín Botánico Alfonso XIII."><img src="https://live.staticflickr.com/4/6302535_c01a564dc2_z.jpg" width="640" height="492" alt="Pasaba por allí. Jardín Botánico Alfonso XIII."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Tenía guardado para comentar <a href="https://www.nature.com/articles/d41586-024-03588-8">ChatGPT is transforming peer review — how can we use it responsibly?</A> (lamentablemente no está en abierto, si alguien lo quiere que lo diga) y casualmente compartí en redes sociales el otro día este otro <a href="https://blog.computationalcomplexity.org/2025/05/using-ai-for-reviews.html">Using AI for Reviews</a>, de uno de los fijos en mi lector de RSS, Lance Fortnow.
 
 Decían en Nature que estaban observando un número significativo de revisiones hechas por IAs.
