@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Las inteligencias artificiales y la revisión por pares"
-date: 2025-05-22:T16:00
+date: 2025-05-22:T15:00
 ---
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/6302535/in/album-72157608554287572" title="Pasaba por allí. Jardín Botánico Alfonso XIII."><img src="https://live.staticflickr.com/4/6302535_c01a564dc2_z.jpg" width="640" height="492" alt="Pasaba por allí. Jardín Botánico Alfonso XIII."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
