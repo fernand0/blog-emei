@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lo que importa (en internet y la indiew web)"
+title: "Lo que importa (en internet y la indie web)"
 date: 2025-06-27:T15:00
 ---
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/54479645795/in/dateposted/" title="Torre del Castillo Imperial"><img src="https://live.staticflickr.com/65535/54479645795_510d89b953_z.jpg" width="427" height="640" alt="Torre del Castillo Imperial"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
