@@ -30,7 +30,7 @@ Luego nos cuentan la vida de este personaje y su comienzo como revisor, después
 
 <blockquote>
 This productive period was interrupted when, in 2003, Killian had a heart attack. His medication regimen destroyed his will to write.
-</a>
+</blockquote>
 
 Aunque la sugerencia de otra escritora, Dodie Bellamy, le inició en la tarea de mantener su arte de escritor a través de reseñas breves.
 
