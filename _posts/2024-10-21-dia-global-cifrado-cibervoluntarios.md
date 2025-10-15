@@ -21,7 +21,7 @@ También cómo debilitar esa seguridad con el objetivo de capturar a pesonas que
 
 * Porque no garantiza que vayan a encontrarlas y detenerlas (estas personas ya se saltan la ley, no tendrían problemas en saltársela para conseguir mejores sistemas de protección de sus comunicaciones).
 * Aunque fueran capaces de leer absolutantemente todos los mensajes que se emitieran, necesitarían algún tipo de sistema automatizado para detectar los mensajes peligrosos y eso, en sí mismo, ya sería una tarea difícil.
-* Dejar desprotegidos a los ciudadanos puede tener consecuencias para algunos de llos que son especialmente susceptibles de ser atacados y espiados por diversos motivos.
+* Dejar desprotegidos a los ciudadanos puede tener consecuencias para algunos de ellos que son especialmente susceptibles de ser atacados y espiados por diversos motivos.
 * Si alguien que no sea el gobierno (o la policía) tiene acceso a esas herramientas de acceso a la información cifrada con mecanismos más débiles puede provocar problemas a la gente.
 
 Óscar comparaba la necesidad del cifrado con la de la salud, que solo nos damos cuenta cuando nos falta. En el caso del cifrado, añadíamos, hablaríamos de la salud en términos de enfermedades crónicas (una gripe se pasa, pero una vez que nuestra seguridad ha sido comprometida ya no hay vuelta atrás).
