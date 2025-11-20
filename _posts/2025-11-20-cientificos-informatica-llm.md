@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cómo los científicos utilizan la IA para sus programas y qué habría que enseñarles"
-date: 2025-11-21:T09:00
+date: 2025-11-20:T09:00
 ---
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/47984414582/" title="Cátedra aula Fray Luis de León"><img src="https://live.staticflickr.com/65535/47984414582_292d585e21_z.jpg" width="427" height="640" alt="Cátedra aula Fray Luis de León"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
