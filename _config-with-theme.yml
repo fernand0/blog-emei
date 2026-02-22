@@ -1,0 +1,47 @@
+#
+# BLOG _config.yml - Using shared theme
+# =====================================
+#
+
+# --- Site settings (specific to blog) ---
+title: Bitácora de fernand0
+tagline: 'Cambiando de aires'
+description: 'Internet, cultura libre, redes sociales, ...'
+url: https://blog.elmundoesimperfecto.com
+baseurl: ''
+paginate: 5
+permalink: pretty
+
+# --- Theme ---
+theme: elmundoesimperfecto-theme
+
+# --- Author (from _config-shared.yml) ---
+author:
+  name: Fernando Tricas García
+  url: https://elmundoesimperfecto.com/
+  email: blog@elmundoesimperfecto.com
+
+# --- Plugins ---
+plugins:
+  - jekyll-paginate
+
+# --- Footer links (from _config-shared.yml) ---
+footer-links:
+  email: blog@elmundoesimperfecto.com
+  facebook: fernando.tricas
+  github: fernand0
+  instagram: ftricas
+  linkedin: fernand0
+  twitter: fernand0
+  mastodon: https://mastodon.social/@fernand0
+
+# --- Theme color (optional - defaults to theme-base-0b1) ---
+# theme_color: theme-base-0b1  # Blue
+# theme_color: theme-base-0b2  # Green
+# theme_color: theme-base-0b3  # Red
+
+# --- Google Analytics ---
+google_analytics_id: #UA-XXXX-Y
+
+# --- Version tracking ---
+theme_version: 1.0.0

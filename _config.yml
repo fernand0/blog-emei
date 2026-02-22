@@ -7,11 +7,16 @@ baseurl:             ''
 paginate:            5
 permalink:           pretty
 
+# Theme
+theme:               elmundoesimperfecto-theme
+
 # About/contact
 author:
   name:              Fernando Tricas García
   url:               https://elmundoesimperfecto.com/
   email:             blog@elmundoesimperfecto.com
+  avatar:            https://1.gravatar.com/avatar/16fefa5bbee207e96c9d78ad3854995c28c0ac2ef959889e8fea717b6a88f286
+  homepage:          https://elmundoesimperfecto.com/
 
 # Gems
 plugins:
