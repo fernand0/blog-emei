@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fatiga regulatoria, riesgos y consecuencias"
-date: 2026-03-02:T16:00
+date: 2026-03-02:T14:00
 ---
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/2245273860/in/photolist-4kprcU-4qpBGh-npCUMD-47xK5A" title="Obligación estadística"><img src="https://live.staticflickr.com/2194/2245273860_1e0c303e26_z.jpg" width="640" height="84" alt="Obligación estadística"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
