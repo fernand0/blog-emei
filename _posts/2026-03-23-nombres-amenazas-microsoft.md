@@ -30,7 +30,7 @@ Por ejemplo, tifón indicaría que el origen es China (sucesos meteorológicos r
 In this taxonomy, a weather event or family name represents one of the above categories. For nation-state actors, we assigned a family name to a country/region of origin tied to attribution. For example, Typhoon indicates origin or attribution to China. For other actors, the family name represents a motivation. For example, Tempest indicates financially motivated actors.
 </blockquote>
 
-Como curiosidad, el nombre asignado a España es *derecho* que, en meteorología,  es un fenómeno meteorológico al estilo de una tormenta de viento en línea recta, extensa y de larga duración". China, como decíamos sería *tifón*, y Alemania un *temporal*. Ninguno de nuestros vecinos tiene nombre específico.
+Como curiosidad, el nombre asignado a España es *derecho* que, en meteorología,  y según la Wikipedia es un fenómeno meteorológico al estilo de una tormenta de viento en línea recta, extensa y de larga duración. China, como decíamos sería *tifón*, y Alemania un *temporal*. Ninguno de nuestros vecinos tiene nombre específico.
 
 Los grupos en desarrollo serían *tormentas* y las operaciones de influencia serían *inundaciones*.
 
