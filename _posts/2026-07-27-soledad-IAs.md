@@ -36,7 +36,7 @@ Algo que, como sabemos, las personas que tenemos alrededor no siempre cumplirán
 
 Como siempre, esto no es tan novedoso: casi cualquier tecnología es susceptible de llenar un hueco en nuestra vida y convertirse en algo bueno (cuando nos ayuda) o mal (cuando nos crea excesiva dependencia y nos aleja de lo demás).
 
-El efecto consistente en atribuir capacidades humanas a las IAs tiene sus precedentes en el primer bot conversacional, que nació alrededor de 1960 (<a hreF="https://www.ibm.com/es-es/think/insights/eliza-effect-avoiding-emotional-attachment-to-ai">Efecto ELIZA en el trabajo: evitar el apego emocional a los compañeros de IA</a>.
+El efecto consistente en atribuir capacidades humanas a las IAs tiene sus precedentes en el primer bot conversacional, que nació alrededor de 1960 (<a hreF="https://www.ibm.com/es-es/think/insights/eliza-effect-avoiding-emotional-attachment-to-ai">Efecto ELIZA en el trabajo: evitar el apego emocional a los compañeros de IA</a>).
 
 Pero como digo, igual que una IA nos puede ayudar a generar una hoja de cálculo con la programación de un festival, también puede hacerlo con una lista de ideas. Tal vez sea el paso siguiente a escribir en un cuaderno y ordenar nuetra cabeza con eso.
 Seguro que si no perdemos la perspectiva también nos da alguna ocasión para echar unas risas.
