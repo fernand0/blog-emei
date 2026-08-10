@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Copilotos vs asistentes: la IA, el conocimiento, los expertos y las ayudas"
-date: 2026-08-10 15:00:00
+date: "2026-08-10 15:00:00"
 ---
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/fernand0/2830004533/" title="Expo. Pantallas"><img src="https://live.staticflickr.com/3203/2830004533_5ab77064e6_z.jpg" width="640" height="427" alt="Expo. Pantallas"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
