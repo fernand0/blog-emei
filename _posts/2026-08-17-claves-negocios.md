@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La ciberseguridad y las empresas"
+title: "La ciberseguridad, las empresas y las consecuencias"
 date: "2026-08-17 14:00:00 +0000"
 ---
 
