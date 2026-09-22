@@ -40,3 +40,7 @@ El efecto consistente en atribuir capacidades humanas a las IAs tiene sus preced
 
 Pero como digo, igual que una IA nos puede ayudar a generar una hoja de cálculo con la programación de un festival, también puede hacerlo con una lista de ideas. Tal vez sea el paso siguiente a escribir en un cuaderno y ordenar nuetra cabeza con eso.
 Seguro que si no perdemos la perspectiva también nos da alguna ocasión para echar unas risas.
+
+**Actualización (2026-09-26):** Han publicado el vídeo.
+
+<iframe src='https://tv.urjc.es/iframe/6a6af8875305432f90065082' id='pumukitiframe' frameborder='0' border='0' width='560' height='315' allowfullscreen loading='lazy'></iframe>
